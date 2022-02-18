@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dccf602b.css",
+    "main.js": "/static/js/main.89b9c7b5.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/베르판글로브.JPG": "/static/media/베르판글로브.4db4bdc3db1e119181be.JPG",
+    "index.html": "/index.html",
+    "main.dccf602b.css.map": "/static/css/main.dccf602b.css.map",
+    "main.89b9c7b5.js.map": "/static/js/main.89b9c7b5.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dccf602b.css",
+    "static/js/main.89b9c7b5.js"
+  ]
+}
